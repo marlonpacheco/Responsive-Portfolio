@@ -70,3 +70,8 @@ footer {
     height: 286px;
     width: 286px;
 }
+
+.card {
+    height: 400px;
+    width: 1000px;
+}
