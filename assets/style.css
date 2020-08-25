@@ -79,3 +79,11 @@ footer {
 #aboutMeImg {
     width: 200px;
 }
+
+p {
+    text-align: left;
+}
+
+.networking {
+    color: black;
+}
