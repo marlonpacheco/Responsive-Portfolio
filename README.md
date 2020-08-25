@@ -1,5 +1,6 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# My Portfolio
 
-This webpage is to demonstrate layouts using bootstrap. It took a while to figure things out and It will probably take little more to figure everything out.
+This page is meant to show my portfolio
 
-It was a good project to work on. I look forward to updating this with real content but for now I hope I didn't do too bad.
+## Link
+https://marlonpacheco.github.io/Responsive-Portfolio/index.html
