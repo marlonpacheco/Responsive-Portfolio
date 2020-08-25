@@ -16,6 +16,8 @@ nav h2 {
     max-height: 70%;
     background-color: white;
     margin: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
     clear: both;
     overflow: auto;
     display: inline-block;
@@ -80,10 +82,15 @@ footer {
     width: 200px;
 }
 
-p {
-    text-align: left;
-}
 
 .networking {
     color: black;
+}
+
+.card-body a{
+    color: black;
+}
+
+.hide {
+    display: none;
 }
