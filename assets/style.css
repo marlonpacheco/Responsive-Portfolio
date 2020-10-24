@@ -8,7 +8,7 @@ a {
 }
 
 nav h2 {
-    margin-left: 10px;
+    margin-left: 5px;
 }
 
 .container {
@@ -33,7 +33,7 @@ nav h2 {
 }
 
 body {
-    background-image: url('assets/kat-love-KGd047jNsn0-unsplash.jpg');
+    background-image: url('kat-love-KGd047jNsn0-unsplash.jpg');
 }
 
 #content {
@@ -94,3 +94,15 @@ footer {
 .hide {
     display: none;
 }
+
+.imglink {
+margin-left: 5px;
+margin-right: 5px;
+overflow: auto;
+opacity: 1;
+}
+
+.imglink:hover {
+    opacity: 0.3;
+}
+
